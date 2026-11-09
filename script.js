@@ -8,28 +8,28 @@ const TOTAL_QUESTIONS = 10;
 
 const QUESTIONS = [
   {
-    category: "Hukum Tata Negara",
-    story: "DPR baru mengesahkan sebuah undang-undang. Sekelompok warga menilai isinya bertentangan dengan UUD 1945.",
-    question: "Ke lembaga mana mereka mengajukan uji materi?",
-    options: ["Mahkamah Agung", "Mahkamah Konstitusi", "PTUN", "Komisi Yudisial"],
-    answer: 1,
-    explain: "Mahkamah Konstitusi berwenang menguji undang-undang terhadap UUD 1945."
+    category: "PIH (PENGANTAR ILMU HUKUM)",
+    story: "PIH sebagai cabang dari ilmu pengetahuan harus memperhatikan prasyarat pokok,yaitu logis, sistematis, dan metodis sehingga dapat diuji kebenarannya.",
+    question: "suatu penggambaran terhadap sesuatu gejala hukum melalui alur berpikir secara?",
+    options: ["1. rasional(logis), 2. suatu pemaparan yang runtut( sistematis), 3. melalui teknik pendekatan tertentu (metodis)"],
+    answer: semua,
+    explain: "1. rasional(logis), 2. suatu pemaparan yang runtut( sistematis), 3. melalui teknik pendekatan tertentu (metodis."
   },
   {
-    category: "Hukum Tata Negara",
-    story: "Sebuah Perda dianggap bertentangan dengan undang-undang di atasnya.",
-    question: "Lembaga mana yang berwenang menguji peraturan di bawah undang-undang?",
-    options: ["Mahkamah Konstitusi", "DPD", "Mahkamah Agung", "Ombudsman"],
-    answer: 2,
-    explain: "Mahkamah Agung berwenang menguji peraturan perundang-undangan di bawah undang-undang terhadap undang-undang."
+    category: "PIH (PENGANTAR ILMU HUKUM)",
+    story: "PIH memberikan landasan guna mendukung mata kuliah lain sehingga dapat membantu memudahkan dan melancarkan studi mata kuliah hukum yang bukan bersifat pengantar lagi.",
+    question: "ruang lingkup pembahasan PIH antara lain?",
+    options: ["1. mempelajari dasar-dasar hukum, termasuk PIH dalam arti sempit,dan pengantar hukum indonesia (PHI), 2. mempelajari ilmu hukum secara keseluruhan dalam garis besar, 3. memperkenalkan konsep-konsep,generalisasi-generalisasi, dan teori hukum umum;dan, 4. memperkenalkan pengertian-pengertian dan asas-asas hukum"],
+    answer: semua,
+    explain: "1. mempelajari dasar-dasar hukum, termasuk PIH dalam arti sempit,dan pengantar hukum indonesia (PHI), 2. mempelajari ilmu hukum secara keseluruhan dalam garis besar, 3. memperkenalkan konsep-konsep,generalisasi-generalisasi, dan teori hukum umum;dan, 4. memperkenalkan pengertian-pengertian dan asas-asas hukum."
   },
   {
-    category: "Hukum Tata Negara",
-    story: "Seorang mahasiswa hukum sedang belajar hierarki peraturan perundang-undangan.",
-    question: "Mana yang kedudukannya paling tinggi di antara pilihan berikut?",
-    options: ["Peraturan Presiden", "Peraturan Pemerintah", "Undang-Undang", "Perda Provinsi"],
-    answer: 2,
-    explain: "Dalam hierarki UU 12/2011, Undang-Undang berada di atas PP, Perpres, dan Perda."
+    category: "PIH (PENGANTAR ILMU HUKUM)",
+    story: "PIH merupakan dasar dari ilmu hukum,tetapi penjelasan ilmu hukum itu sendiri belum dijelaskan secara garis besar.",
+    question: "Pengertian Ilmu hukum terbagi dalam dua arti, yaitu arti luas dan arti sempit?",
+    options: ["1. ilmu hukum dalam arti luas, yaitu ilmu yang mencakup dan membicarakan segala hal yang berhubungan dengan hukum yang bertujuan untuk memperoleh pengetahuan tentang segala hal dan semua seluk-beluk mengenai hukum (Satjipto Rahardjo), 2. ilmu hukum dalam arti sempit, yaitu ilmu yang mempelajari makna objektif tata hukum positif yang disebut dogmatik hukum (ajaran hukum) (Radbruch)"],
+    answer: semua,
+    explain: "1. ilmu hukum dalam arti luas, yaitu ilmu yang mencakup dan membicarakan segala hal yang berhubungan dengan hukum yang bertujuan untuk memperoleh pengetahuan tentang segala hal dan semua seluk-beluk mengenai hukum (Satjipto Rahardjo), 2. ilmu hukum dalam arti sempit, yaitu ilmu yang mempelajari makna objektif tata hukum positif yang disebut dogmatik hukum (ajaran hukum) (Radbruch)."
   },
   {
     category: "Hukum Pidana",
