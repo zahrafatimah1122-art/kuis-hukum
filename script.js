@@ -32,28 +32,28 @@ const QUESTIONS = [
     explain: '1. ilmu hukum dalam arti luas, yaitu ilmu yang mencakup dan membicarakan segala hal yang berhubungan dengan hukum yang bertujuan untuk memperoleh pengetahuan tentang segala hal dan semua seluk-beluk mengenai hukum (Satjipto Rahardjo), 2. ilmu hukum dalam arti sempit, yaitu ilmu yang mempelajari makna objektif tata hukum positif yang disebut dogmatik hukum (ajaran hukum) (Radbruch).'
   },
   {
-    category: 'Hukum Pidana',
-    story: 'Andi ditangkap polisi atas dugaan pencurian. Media sudah menyebutnya 'pelaku', padahal belum ada putusan pengadilan.',
-    question: 'Asas apa yang seharusnya dihormati?',
-    options: ['Asas legalitas', "Asas praduga tak bersalah", "Asas retroaktif", "Asas lex specialis"],
-    answer: 1,
-    explain: 'Setiap orang dianggap tidak bersalah sampai ada putusan pengadilan yang berkekuatan hukum tetap.'
-  },
-  {
-    category: 'Hukum Pidana',
-    story: 'Seseorang dituntut atas perbuatan yang pada saat dilakukan belum diatur sebagai tindak pidana.',
-    question: 'Asas apa yang dilanggar?',
-    options: ["Asas legalitas", "Asas oportunitas", "Ne bis in idem", "Lex posterior"],
+    category: 'Hukum Administrasi Negara',
+    story: 'Hukum ialah semua aturan (norms) yang harus diturut dalam tingkah laku tindakan-tindakan dalam pergaulan hidup dengan ancaman mesti mengganti kerugian jika melanggar aturan-aturan itu akan membahayakan diri sendiri atau harta, umpamanya orang akan kehilangan kemerdekaannya, didenda, dan sebagainya (H.M Tirtaatmidjaja,S.H.).',
+    question: 'Sjachran basah mengungkap makna mengenai pengertian hukum, ia lebih memilih pendekatan fungsi, menurutnya dalam hukum terdapat lima fungsi hukum yang berkaitan dengan kehidupan masyarakat sebagai berikut?',
+    options: ['1. Direktif: sebagai pengarah dalam membentuk masyarakat yang hendak dicapai sesuai dengan tujuan kehidupan bernegara. 2. Integratif: sebagai pembina kesatuan bangsa. 3. Stabilitatif: sebagai pemelihara (termasuk hasil-hasil pembangunan) serta penjga keselaran, keserasian, dan keseimbangan dalam kehidupan bernegara dan bermasyarakat. 4. Perfektif: sebagai penyempurna terhadap tindakan-tindakan administrasi negara ataupun sikap tindak warga negara dalam kehidupan bernegara dan bermasyarakat. 5. Korektif: baikterhadap warga negara maupun administrasi negara dalam mendapatkan keadilan"],
     answer: 0,
-    explain: 'Asas legalitas: tidak ada perbuatan yang dapat dipidana tanpa aturan pidana yang sudah ada sebelumnya.'
+    explain: '1. Direktif: sebagai pengarah dalam membentuk masyarakat yang hendak dicapai sesuai dengan tujuan kehidupan bernegara. 2. Integratif: sebagai pembina kesatuan bangsa. 3. Stabilitatif: sebagai pemelihara (termasuk hasil-hasil pembangunan) serta penjga keselaran, keserasian, dan keseimbangan dalam kehidupan bernegara dan bermasyarakat. 4. Perfektif: sebagai penyempurna terhadap tindakan-tindakan administrasi negara ataupun sikap tindak warga negara dalam kehidupan bernegara dan bermasyarakat. 5. Korektif: baikterhadap warga negara maupun administrasi negara dalam mendapatkan keadilan.'
   },
   {
-    category: 'Hukum Pidana',
-    story: 'Kamu sedang membahas pembaruan hukum pidana nasional di Indonesia.',
-    question: 'Kapan KUHP nasional (UU 1/2023) mulai berlaku?',
-    options: ["17 Agustus 2025", "1 Januari 2030", "2 Januari 2026", "2 Januari 2023"],
-    answer: 2,
-    explain: 'KUHP nasional (UU 1/2023) berlaku sejak 2 Januari 2026, tiga tahun setelah diundangkan.'
+    category: 'Hukum Administrasi negara',
+    story: 'Prayudi Atmosudirjo melihat administrasi negara pada fungsinya yang lebih luas lagi, yakni melaksanakan dan menyelenggarakan kehendak-kehendak (strategy,policy) serta keputusan-keputusan pemerintah secra nyata (implementasi dan menyelenggarakan undang-undang menurut pasal-pasalnya) sesuai dengan peraturan-peraturan pelaksanaan yang ditetapkan.',
+    question: 'Prayudi Atmosudirjo memerincinya dalam beberapa pengertian administrasi negara yang terkait dengan pelaksanaan kebijakan pemerintah sebagai berikut?',
+    options: ['1. Sebagai aparatur negara, aparatur pemerintahan, atau sebagai institusi politik (kenegaraan). 2. Administrasi negara sebagai "fungsi" atau sebagai aktivitas melayani pemerintah, yaitu sebagai kegiatan "pemerintah operasional". 3. Administrasi negara sebagai proses teknis penyelenggaran undang-undang.],
+    answer: 0,
+    explain: '1. Sebagai aparatur negara, aparatur pemerintahan, atau sebagai institusi politik (kenegaraan). 2. Administrasi negara sebagai "fungsi" atau sebagai aktivitas melayani pemerintah, yaitu sebagai kegiatan "pemerintah operasional". 3. Administrasi negara sebagai proses teknis penyelenggaran undang-undang.'
+  },
+  {
+    category: 'Hukum Administrasi negara',
+    story: 'Pengertian administrasi negara pada akhirnya lebih dipahami sebagai suatu sistem yang melibatkan segenap unsur dan sifat-sifat sistem guna mencapai suatu tujuan.',
+    question: 'Sebagai suatu sistem, administrasi negara tentu juga memenuhi sifat-sifat dari sistem dari?',
+    options: ['1.Sistem itu mempunyai tujuan; 2.sistem itu mempunyai batas-batas sistem; 3.sistem pada umumnya bersifat terbuka walau dalam beberapa hal dapat bersifat tertutup; 4.sistem terdiri atas berbagai bagian atau subsistem; 5.sistem itu mempunyai sifat wholism; 6.terdapat saling keterhubungan; 7.sistem melakukan kegiatan transformasi; 8.terdapat mekanisme kontrol; 9.mempunyai kemampuan mengatur dan menyesuaikan diri],
+    answer: 0,
+    explain: '1.Sistem itu mempunyai tujuan; 2.sistem itu mempunyai batas-batas sistem; 3.sistem pada umumnya bersifat terbuka walau dalam beberapa hal dapat bersifat tertutup; 4.sistem terdiri atas berbagai bagian atau subsistem; 5.sistem itu mempunyai sifat wholism; 6.terdapat saling keterhubungan; 7.sistem melakukan kegiatan transformasi; 8.terdapat mekanisme kontrol; 9.mempunyai kemampuan mengatur dan menyesuaikan diri.'
   },
   {
     category: "Hukum Perdata",
