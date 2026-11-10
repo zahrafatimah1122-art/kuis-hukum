@@ -56,7 +56,7 @@ const QUESTIONS = [
     explain: '1.Sistem itu mempunyai tujuan; 2.sistem itu mempunyai batas-batas sistem; 3.sistem pada umumnya bersifat terbuka walau dalam beberapa hal dapat bersifat tertutup; 4.sistem terdiri atas berbagai bagian atau subsistem; 5.sistem itu mempunyai sifat wholism; 6.terdapat saling keterhubungan; 7.sistem melakukan kegiatan transformasi; 8.terdapat mekanisme kontrol; 9.mempunyai kemampuan mengatur dan menyesuaikan diri.'
   },
   {
-    category: "Hukum Perdata",
+    category: 'Hukum Perdata',
     story: 'Budi meminjam Rp5 juta dari Sinta dan berjanji membayar bulan depan. Ia tidak membayar, tapi tidak ada tipu muslihat, murni utang-piut'ng.',
     question: 'Ini termasuk apa?',
     options: ["Pencurian", "Wanprestasi", "Pemalsuan", "Makar"],
@@ -64,7 +64,7 @@ const QUESTIONS = [
     explain: 'Ingkar janji dalam perjanjian disebut wanprestasi, ranahnya hukum perdata.'
   },
   {
-    category: "Hukum Perdata",
+    category: 'Hukum Perdata',
     story: 'Karena lalai, moil Tono menabrak pagar rumah tetangga hingga rusak. Keduanya tidak punya perjanjian apa pun.',
     question: 'Dasar gugatan perdata tetangganya adalah...',
     options: ["Wanprestasi", "Daluwarsa", "Perbuatan melawan hukum", "Pailit"],
@@ -72,7 +72,7 @@ const QUESTIONS = [
     explain: 'Perbuatan yang melanggar hukum dan merugikan orang lain mewajibkan pelakunya mengganti kerugian (Pasal 1365 KUH Perdata).'
   },
   {
-    category: "Hukum Keluarga",
+    category: 'Hukum Keluarga',
     story: 'Dua calon pengantin bertanya soal syarat usia dalam UU Perkawinan setelah revisi tahun 2019.',
     question: 'Berapa batas usia minimal menikah?',
     options: ["16 tahun", "18 tahun", "19 tahun", "21 tahun"],
@@ -80,7 +80,7 @@ const QUESTIONS = [
     explain: 'UU 16/2019 menetapkan usia minimal 19 tahun untuk laki-laki dan perempuan.'
   },
   {
-    category: "Hak Kekayaan Intelektual",
+    category: 'Hak Kekayaan Intelektual',
     story: 'Dina menggambar ilustrasi dan mengunggahnya ke media sosial, tapi belum mendaftarkannya. Lalu ada yang menjiplaknya.',
     question: 'Apakah Dina tetap punya perlindungan hak cipta?',
     options: [
@@ -106,7 +106,7 @@ const QUESTIONS = [
     explain: 'UU Perlindungan Konsumen menjamin hak atas informasi yang benar, jelas, dan jujur tentang barang.'
   },
   {
-    category: "Hukum Siber",
+    category: 'Hukum Siber',
     story: 'Sebuah aplikasi pinjaman online membocorkan data KTP dan nomor HP penggunanya.',
     question: 'UU yang paling relevan adalah...',
     options: ["UU Pelayaran", "UU Kehutanan", "UU Pelindungan Data Pribadi", "UU Penanaman Modal"],
@@ -114,7 +114,7 @@ const QUESTIONS = [
     explain: 'UU 27/2022 tentang Pelindungan Data Pribadi mengatur kewajiban pengelola data dan hak pemilik data.'
   },
   {
-    category: "Hak Asasi Manusia",
+    category: 'Hak Asasi Manusia',
     story: 'Negara dalam keadaan darurat dan membatasi berbagai kebebasan warga.',
     question: 'Hak mana yang tidak boleh dikurangi dalam keadaan apa pun menurut Pasal 28I UUD 1945?',
     options: [
@@ -127,7 +127,7 @@ const QUESTIONS = [
     explain: 'Hak untuk hidup termasuk hak yang tidak dapat dikurangi dalam keadaan apa pun (non-derogable rights).'
   },
   {
-    category: "Hukum Administrasi",
+    category: 'Hukum Administrasi',
     story: 'Izin usaha Pak Hasan dicabut sepihak oleh seorang pejabat tanpa prosedur yang jelas. Ia ingin menggugat keputusan itu.',
     question: 'Pengadilan mana yang berwenang?',
     options: ["Pengadilan Niaga", "Pengadilan Tata Usaha Negara", "Pengadilan Agama", "Pengadilan Militer"],
@@ -135,7 +135,7 @@ const QUESTIONS = [
     explain: 'Sengketa atas keputusan pejabat tata usaha negara diadili oleh PTUN.'
   },
   {
-    category: "Lembaga Peradilan",
+    category: 'Lembaga Peradilan',
     story: 'Ada laporan seorang hakim berperilaku tidak etis di dalam dan di luar persidangan.',
     question: 'Lembaga mana yang berwenang menjaga kehormatan dan perilaku hakim?',
     options: ["Komisi Yudisial", "KPU", "Bawaslu", "Komnas Perempuan"],
